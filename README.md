@@ -13,5 +13,5 @@ Inicio: Sueldo semanal
 - pedir dias trabajados
 - multiplicar horas por dias trabajados por pago 	por hora 
 - almacenar el resultado
-
+Fin: sueldo semanal
 
